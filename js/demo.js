@@ -1,3 +1,10 @@
+
+document.addEventListener("DOMContentLoaded", ready){
+
+    
+}
+
+
 console.log('hi')
 
 const URL_PREFIX='http://localhost:3000/';
